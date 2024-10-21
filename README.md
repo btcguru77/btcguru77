@@ -41,7 +41,7 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=btcguru77.btcguru77" />
+
 <img align="right" src="https://img.shields.io/github/followers/btcguru77?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=btcguru77&show_icons=true&theme=merko&count_private=true">
