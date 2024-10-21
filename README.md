@@ -43,6 +43,3 @@
 
 
 <img align="right" src="https://img.shields.io/github/followers/crypmancer?label=Follow&style=social" />
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=crypmancer&show_icons=true&theme=merko&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypmancer&layout=compact&theme=merko&count_private=true">
