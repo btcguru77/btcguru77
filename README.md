@@ -1,14 +1,6 @@
 ### 👋 Hello, Welcome to my space, feel free to reach out me for any question or sth.
-<p> 
-    <a href="https://discordapp.com/users/252009057685209089" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://t.me/devbeast5775" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://join.skype.com/invite/vgReIU4pCawU" target="_blank"><img alt="Skype"
-        src="https://img.shields.io/badge/Skype-230077B5?style=for-the-badge&logo=skype&logoColor=white"/></a>
-</p>
 
-# <a href="https://github.com/web3atman/About-Me">Blockchain FullStack Developer</a>
+# <a href="https://github.com/web3atman/About-Me">FullStack Developer</a>
 
 ![](https://img.shields.io/badge/Network-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
